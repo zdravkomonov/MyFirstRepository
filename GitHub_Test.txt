@@ -1,1 +1,2 @@
 my first test  33333 има я тази функционалност!!!!
+bug #3 resolved!
